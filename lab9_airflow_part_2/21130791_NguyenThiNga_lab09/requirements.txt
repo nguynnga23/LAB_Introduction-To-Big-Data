@@ -1,0 +1,9 @@
+# Airflow
+apache-airflow==2.7.0
+
+# Database Drivers
+psycopg2-binary==2.9.3  # PostgreSQL connector
+pymongo==4.1.1  # MongoDB connector
+
+# Other packages
+pandas==1.3.3
